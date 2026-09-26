@@ -1,0 +1,11 @@
+{
+  "name": "alexsamunitygame.core",
+  "version": "1.0.0",
+  "displayName": "AlexSamGame Core",
+  "description": "Общие скрипты для проектов CS50G: машина состояний, растяжение камеры, счётчик FPS.",
+  "unity": "6000.0",
+  "author": { "name": "AlexSamGame" },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  }
+}
